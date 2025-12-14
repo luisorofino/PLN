@@ -27,3 +27,8 @@ El notebook incluye un flujo de trabajo completo de Data Science:
         * Sin embeddings pre-entrenados.
         * Con embeddings congelados (GloVe).
         * Con embeddings sin congelar (Fine-tuning).
+      
+Para ejecutar este cuaderno necesitas las siguientes librerías:
+
+```bash
+pip install -r requirements.txt
