@@ -7,6 +7,11 @@ El objetivo de este proyecto es clasificar noticias como *Reales* o *Falsas* uti
 * **Daniel Casquero Palencia**
 * **Luis Orofino Álvarez**
 
+## Dataset
+Debido al tamaño de los archivos, los datasets están disponibles aquí:
+* [Dataset Fake.csv (Google Drive)](https://drive.google.com/file/d/1kPuMWKYG-TofjxO-2rUNsEunY4Pzjxfp/view?usp=sharing)
+* [Dataset True.csv (Google Drive)](https://drive.google.com/file/d/1WbX9rmNAsUfYK6IMcU3joHCcWs5jZLvY/view?usp=sharing)
+
 ## Contenido del Proyecto
 
 El notebook incluye un flujo de trabajo completo de Data Science:
